@@ -1,5 +1,5 @@
 amddviews
-=========
+=============
 
 AMDDViews is an adaptable view with drag and drop support, well designed to work with ListView, GridView and customized AdapterView. It is a handy scratch for scene where adapter item prefer a drag and drop interactive mode.
 
